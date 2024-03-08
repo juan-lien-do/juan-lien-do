@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: try findmejuan@hotmail.com
+- 📫 How to reach me: findmejuan@hotmail.com
 
 <!---
 juan-lien-do/juan-lien-do is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
