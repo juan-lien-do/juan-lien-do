@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Juan
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning microservices
+- 👀 I’m interested in Java and React
+- 📖 Enrolled in the Universidad Tecnológica Nacional 🇦🇷
+- 🌱 I’m currently improving my FE skills
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: findmejuan@hotmail.com
 
