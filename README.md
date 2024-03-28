@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in Java and React
-- 📖 Enrolled in the Universidad Tecnológica Nacional 🇦🇷 pursuing an Engineering degree
+- 📖 Enrolled at the Universidad Tecnológica Nacional 🇦🇷 a degree in Engineering
 - 🌱 I’m currently improving my FE skills and learning MongoDB
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: findmejuan@hotmail.com
