@@ -10,7 +10,7 @@ Deployed projects:
 
 - <b>"Qué curso?"</b> is a web app that helps students know which courses they can take based on the curses they took before at the Universidad Tecnológica Nacional.
 https://que-curso-juanliendo-brunovir.vercel.app/
-- <b>"Repartir"</b> is a web app where you can split the cost of a meeting with your friends.
+- <b>"Repartir"</b> is a web app where you can split the cost of a meeting with your friends and download a pdf document that states who shall pay and how much to each other.
 https://juan-lien-do.github.io/repartir/
 
 <!---
