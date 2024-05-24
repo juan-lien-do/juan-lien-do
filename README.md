@@ -2,7 +2,6 @@ About me:
 - 👋 Hi, I’m Juan, I want to be an Engineer and a part of the IT industry.
 - 👀 I’m interested in Java and React
 - 📖 Enrolled at the Universidad Tecnológica Nacional 🇦🇷
-- 🌱 I’m currently improving my FE skills and learning MongoDB
 - 📫 How to reach me: findmejuan@hotmail.com
 <hr/>
 
