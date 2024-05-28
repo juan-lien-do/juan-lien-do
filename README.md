@@ -3,7 +3,7 @@
 <hr/>
 <h2 align="center">About Me</h2>
 <ul>
-  <li>🎓 Enrolled at <b>Universidad Tecnológica Nacional</b> 🇦🇷</li>
+  <li>🎓 Enrolled at <b>Universidad Tecnológica Nacional</b> 🇦🇷 Average grade: 8.05/10</li>
   <li>📚 Passionate about <b>Java</b> and <b>React</b></li>
   <li>📧 How to reach me: <a href="mailto:findmejuan@hotmail.com">findmejuan@hotmail.com</a></li>
 </ul>
