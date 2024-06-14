@@ -5,6 +5,7 @@
 <ul>
   <li>🎓 Enrolled at <b>Universidad Tecnológica Nacional</b> 🇦🇷 Average grade: 8.05/10</li>
   <li>📚 Passionate about <b>Java</b> and <b>React</b></li>
+  <li>🎖️ I like taking Udemy courses and solving Leetcode problems</li>
   <li>📧 How to reach me: <a href="mailto:findmejuan@hotmail.com">findmejuan@hotmail.com</a></li>
 </ul>
 <hr/>
