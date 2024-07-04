@@ -21,6 +21,6 @@
 </p>
 <h3><a href="https://juan-lien-do.github.io/repartir/">Repartir</a></h3>
 <p>
-  <b>Repartir</b> is a web app where you can split the cost of a meeting with friends and download a PDF document that details who owes whom and how much.
+  <b>Repartir</b> is a web app where users can split the cost of a meeting with friends, and then download a PDF document that details who owes whom and how much.
 </p>
 <hr/>
