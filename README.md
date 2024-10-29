@@ -15,7 +15,7 @@ Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js
 
 Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Oracle, SQLite.
 
-Otras herramientas: Postman, Swagger, Microsoft Excel, Git, GitLab, GitHub.
+Otras herramientas: Postman, Swagger, Microsoft Excel, Git, GitLab, GitHub, Jira, SCRUM.
 
 Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx.
 
@@ -91,6 +91,6 @@ Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx.
   <a href="https://juan-lien-do.github.io/repartir/">Despliegue</a>
 </details>
 <h2 align="center">Conceptos</h2>
-<p>Algoritmos y Estructuras de Datos, Programación Orientada a Objetos, Programación Funcional, Normalización, Desnormalización, Patrones de Diseño Orientados a Objetos, Arquitectura de Software.</p>
+<p>Algoritmos y Estructuras de Datos, Programación Orientada a Objetos, Programación Funcional, Normalización, Desnormalización, Patrones de Diseño Orientados a Objetos, Arquitectura de Software, Sistemas Operativos, Metodología SCRUM, PUD.</p>
 
 <hr/>
