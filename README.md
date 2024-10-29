@@ -9,7 +9,7 @@
 </ul>
 <h2 align="center">Tecnologías</h2>
 
-Lenguajes de programación: <b> Java, JavaScript, Python, Bash </b>
+Lenguajes de programación: <b> Java, JavaScript, Python, Bash.</b>
 
 Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js.
 
@@ -17,7 +17,7 @@ Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQ
 
 Otras herramientas: Postman, Swagger, Microsoft Excel, Git, GitLab, GitHub.
 
-Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx
+Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx.
 
 <h2 align="center">Proyectos y tesis</h2>
 <details>
@@ -91,6 +91,6 @@ Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx
   <a href="https://juan-lien-do.github.io/repartir/">Despliegue</a>
 </details>
 <h2 align="center">Conceptos</h2>
-<p>Algoritmos y Estructuras de Datos, Programación Orientada a Objetos, Programación Funcional, Normalización, Desnormalización, Patrones de Diseño Orientados a Objetos, Arquitectura de Software</p>
+<p>Algoritmos y Estructuras de Datos, Programación Orientada a Objetos, Programación Funcional, Normalización, Desnormalización, Patrones de Diseño Orientados a Objetos, Arquitectura de Software.</p>
 
 <hr/>
