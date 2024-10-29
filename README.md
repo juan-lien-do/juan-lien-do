@@ -1,26 +1,96 @@
-<h1 align="center">Hi there, I'm Juan 👋</h1>
-<p align="center">Aspiring Engineer | Java & React Enthusiast</p>
-<hr/>
-<h2 align="center">About Me</h2>
+<h1 align="center">Hola, soy Juan 👋</h1>
+<p align="center">Estudiante de Ingeniería | Java & React</p>
+<h2 align="center">Acerca de mí</h2>
 <ul>
-  <li>🎓 Enrolled at <b>Universidad Tecnológica Nacional</b> 🇦🇷 Average grade: 8.05/10</li>
-  <li>📚 Passionate about <b>Java</b> and <b>React</b></li>
-  <li>🎖️ I like taking Udemy courses and solving Leetcode problems</li>
-  <li>📧 How to reach me: <a href="mailto:findmejuan@hotmail.com">findmejuan@hotmail.com</a></li>
+  <li>🎓 Estudio en la <b>Universidad Tecnológica Nacional</b> 🇦🇷. Promedio con aplazos: 8.05/10</li>
+  <li>📚 Mi stack principal es <code>Java+Spring Boot</code>, <code>JavaScript+React</code>, <code>MySQL/MSServer</code></li>
+  <li>🎖️ Hago cursos de programación y programo proyectos que resuelven problemas.</li>
+  <li>📧 Contacto: <a href="mailto:juan.lie.2002@gmail.com">juan.lie.2002@gmail.com</a></li>
 </ul>
-<hr/>
-<h2 align="center">Deployed Projects</h2>
-<h3><a href="https://que-curso-juanliendo-brunovir.vercel.app/">Qué Curso?</a></h3>
-<p>
-  <b>Qué Curso?</b> is a web app that helps students at the <b>Universidad Tecnológica Nacional</b> determine which courses they can take based on the prerequisites they have completed.
-  <i>Dozens of students across the university use this app every time they want to enroll in a new course.</i>
-</p>
-<p>
-  <i>Es una aplicación web que ayuda a los estudiantes de la Universidad Tecnológica Nacional a conocer qué materias pueden cursar según el régimen de correlativas vigente. 
-  Docenas de estudiantes la usan cada vez que necesitan anotarse a nuevas materias.</i>
-</p>
-<h3><a href="https://juan-lien-do.github.io/repartir/">Repartir</a></h3>
-<p>
-  <b>Repartir</b> is a web app where users can split the cost of a meeting with friends, and then download a PDF document that details who owes whom and how much.
-</p>
+<h2 align="center">Tecnologías</h2>
+
+Lenguajes de programación: <b> Java, JavaScript, Python, Bash </b>
+
+Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js.
+
+Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Oracle, SQLite.
+
+Otras herramientas: Postman, Swagger, Microsoft Excel, Git, GitLab, GitHub.
+
+Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx
+
+<h2 align="center">Proyectos y tesis</h2>
+<details>
+  <summary>
+    <u>➡️Almacén IT </u> <code>Spring Boot</code> <code>Hibernate</code> <code>MySQL</code> <code>JWT</code> <code>Twilio</code> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code>
+  </summary>
+  <p>
+    <p>
+      <b>Almacén IT</b> Es un sistema de gestión de inventario para el <b>Área de Infraestructura de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba</b>.
+    </p>
+    <p>
+      Actualmente implementa: Seguridad JWT, rutas protegidas, envío de notificaciones por WhatsApp, CRUD y transacciones complejas.
+    </p>
+    <p>
+      La documentación incluye: Estudio inicial, Seguimiento del proyecto, Plan del proyecto, Definición del producto.
+    </p>
+    <p>
+      La deadline del proyecto es el 12/11/2024 (DD/MM/YYYY). Todavía se encuentra en desarrollo.
+    </p>
+    <a href="https://github.com/juan-lien-do/back-seminario">Repo-BackEnd</a>  
+    <a href="https://github.com/juan-lien-do/front-seminario">Repo-FrontEnd</a>
+  </p>
+</details>
+<details>
+  <summary>
+    <u>➡️BackEnd de alquiler de bicicletas</u> <code>Spring Boot</code> <code>Hibernate</code> <code>Sqlite</code> <code>JWT</code> <code>KeyCloak</code> <code>API Gateway</code>
+  </summary>
+  <p>
+    <p>
+      En este trabajo práctico desarrollamos un BackEnd con arquitectura de microservicios. Dos microservicios que consumen bases de datos embebidas y un API Gateway que sirve como punto de entrada al sistema.
+      Utilizamos KeyCloak para obtener las claves JWT.
+    </p>
+    <a href="https://github.com/juan-lien-do/tpi-back">Repositorio</a>
+  </p>
+</details>
+<details>
+  <summary>
+    <u>➡️Qué Curso?</u> <code>Express.js</code> <code>resend</code> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code>
+  </summary>
+  <p>
+    <p>
+      <b>Qué Curso?</b> es una app web que ayuda a los estudiantes de la <b>Universidad Tecnológica Nacional</b> a simular el sistema de correlativas
+      de la carrera y buscar resúmenes para las materias.
+    </p>
+    <p>
+      La página es utilizada por varios alumnos de la UTN en época de inscripciones.
+    </p>
+    <a href="https://que-curso-juanliendo-brunovir.vercel.app/">Despliegue</a>
+  </p>
+</details>
+<details>
+  <summary>
+    <u>➡️Micaela's English Test</u> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>Plotly.js</code>
+  </summary>
+  <p>
+    <p>
+      <b>Micaela's English Test</b> es una página que muestra un sistema de Quiz, cargado con preguntas de inglés orientadas al nivel primario.</i>
+    </p>
+  </p>
+  <a href="https://micaelas-english-test.vercel.app/">Despliegue</a>
+</details>
+<details>
+  <summary>
+    <u>➡️Repartir</u> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>html2pdf</code>
+  </summary>
+  <p>
+    <p>
+      Proyecto que permite a los usuarios repartir los gastos de una salida con amigos y descargar una factura.
+    </p>
+  </p>
+  <a href="https://juan-lien-do.github.io/repartir/">Despliegue</a>
+</details>
+<h2 align="center">Conceptos</h2>
+<p>Algoritmos y Estructuras de Datos, Programación Orientada a Objetos, Programación Funcional, Normalización, Desnormalización, Patrones de Diseño Orientados a Objetos, Arquitectura de Software</p>
+
 <hr/>
