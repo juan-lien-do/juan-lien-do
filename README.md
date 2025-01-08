@@ -29,13 +29,10 @@ Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx.
       <b>Almacén IT</b> Es un sistema de gestión de inventario para el <b>Área de Infraestructura de la Caja de Jubilaciones, Pensiones y Retiros de Córdoba</b>.
     </p>
     <p>
-      Actualmente implementa: Seguridad JWT, rutas protegidas, envío de notificaciones por WhatsApp, CRUD y transacciones complejas.
+      Implementa: Seguridad JWT, rutas protegidas, notificaciones por WhatsApp y gmail, CRUD y transacciones, almacenamiento de imágenes, .
     </p>
     <p>
-      La documentación incluye: Estudio inicial, Seguimiento del proyecto, Plan del proyecto, Definición del producto.
-    </p>
-    <p>
-      La deadline del proyecto es el 12/11/2024 (DD/MM/YYYY). Todavía se encuentra en desarrollo.
+      La documentación incluye: Estudio inicial, Seguimiento de proyecto, Plan de proyecto, Definición de producto, Manual de usuario. Solicitar por mail.
     </p>
     <a href="https://github.com/juan-lien-do/back-seminario">Repo-BackEnd</a>  
     <a href="https://github.com/juan-lien-do/front-seminario">Repo-FrontEnd</a>
