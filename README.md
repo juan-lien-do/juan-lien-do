@@ -3,7 +3,7 @@
 <h2 align="center">Acerca de mí</h2>
 <ul>
   <li>🎓 Estudio en la <b>Universidad Tecnológica Nacional</b> 🇦🇷. Promedio con aplazos: 8.05/10</li>
-  <li>📚 Mi stack principal es <code>Java+Spring Boot</code>, <code>JavaScript+React</code>, <code>MySQL/MSServer</code></li>
+  <li>📚 Mi stack principal es <code>Java+Spring Boot</code>, <code>JavaScript+React</code>, <code>MySQL/MSServer/Postgresql</code></li>
   <li>🎖️ Hago cursos de programación y programo proyectos que resuelven problemas.</li>
   <li>📧 Contacto: <a href="mailto:juan.lie.2002@gmail.com">juan.lie.2002@gmail.com</a> <a href="https://www.linkedin.com/in/juanestebanliendo/">Linkedin</a> </li>
 </ul>
@@ -15,9 +15,11 @@ Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js
 
 Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Oracle, SQLite.
 
-Otras herramientas: Postman, Swagger, Microsoft Excel, Git, GitLab, GitHub, Jira, SCRUM.
+Otras herramientas: Postman, Swagger, Microsoft Office, Jira, SCRUM.
 
-Front-End: HTML, CSS, React, Axios, Bootstrap, JavaFx.
+CI/CD y Cloud: Git, GitHub, CloudPanel, Docker, Putty, DonWeb, Vercel, Ngrok.
+
+Front-End: HTML, CSS, React, Axios, Bootstrap, Tailwindcss, JavaFx, Thymeleaf.
 
 <h2 align="center">Proyectos y tesis</h2>
 <details>
