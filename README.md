@@ -4,7 +4,7 @@
 <ul>
   <li>🎓 Estudio en la <b>Universidad Tecnológica Nacional</b> 🇦🇷. Promedio con aplazos: 8.05/10</li>
   <li>📚 Mi stack principal es <code>Java+Spring Boot</code>, <code>JavaScript+React</code>, <code>MySQL/MSServer/Postgresql</code></li>
-  <li>👨‍🚒 Trabajo con bomberos voluntarios de Jesús María, construyendo un sistema de control de inventario. </li>
+  <li>👨‍🚒 Trabajo con los bomberos voluntarios de Jesús María, construyendo un sistema de control de inventario. </li>
   <li>📧 Contacto: <a href="mailto:juan.lie.2002@gmail.com">juan.lie.2002@gmail.com</a> <a href="https://www.linkedin.com/in/juanestebanliendo/">Linkedin</a> </li>
 </ul>
 <h2 align="center">Tecnologías</h2>
