@@ -11,9 +11,9 @@
 
 Lenguajes de programación: <b> Java, JavaScript, Python, Bash.</b>
 
-Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js.
+Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js, Nginx.
 
-Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Oracle, SQLite.
+Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Oracle db, Postgresql, SQLite.
 
 Otras herramientas: Postman, Swagger, Microsoft Office, Jira, SCRUM.
 
