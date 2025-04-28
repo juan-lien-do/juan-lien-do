@@ -43,18 +43,6 @@ Front-End: HTML, CSS, React, Axios, Bootstrap, Tailwindcss, JavaFx, Thymeleaf.
 </details>
 <details>
   <summary>
-    <u>➡️BackEnd de alquiler de bicicletas</u> <code>Spring Boot</code> <code>Hibernate</code> <code>Sqlite</code> <code>JWT</code> <code>KeyCloak</code> <code>API Gateway</code>
-  </summary>
-  <p>
-    <p>
-      En este trabajo práctico desarrollamos un BackEnd con arquitectura de microservicios. Dos microservicios que consumen bases de datos embebidas y un API Gateway que sirve como punto de entrada al sistema.
-      Utilizamos KeyCloak para obtener las claves JWT.
-    </p>
-    <a href="https://github.com/juan-lien-do/tpi-back">Repositorio</a>
-  </p>
-</details>
-<details>
-  <summary>
     <u>➡️Qué Curso?</u> <code>Express.js</code> <code>resend</code> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code>
   </summary>
   <p>
