@@ -13,9 +13,9 @@
 
 Lenguajes de programación: <b> Java, JavaScript, Python, Bash.</b>
 
-Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js, Nginx.
+Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js, fastAPI, Nginx.
 
-Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Oracle db, Postgresql, SQLite.
+Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Postgresql, SQLite.
 
 Otras herramientas: Postman, Swagger, Microsoft Office, Jira, SCRUM.
 
@@ -23,7 +23,7 @@ CI/CD y Cloud: Git, GitHub, CloudPanel, Docker, Putty, DonWeb, Vercel, Ngrok.
 
 Front-End: HTML, CSS, React, Axios, Bootstrap, Tailwindcss, JavaFx, Thymeleaf.
 
-<h2 align="center">Proyectos y tesis</h2>
+<h2 align="center">Proyectos y tesis <code>Outdated</code>code></h2>
 <details>
   <summary>
     <u>➡️Almacén IT </u> <code>Spring Boot</code> <code>Hibernate</code> <code>MySQL</code> <code>JWT</code> <code>Twilio</code> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code>
