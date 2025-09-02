@@ -15,6 +15,8 @@ Lenguajes de programación: <b> Java, JavaScript, Python, Bash.</b>
 
 Frameworks y herramientas Back-End: Spring Framework, Maven, Node.js, Express.js, fastAPI, Nginx.
 
+Machine Learning & AI: Tensorflow, OpenCV, Ollama.
+
 Persistencia y bases de datos:  Sequelize, Hibernate, Microsoft SQL Server, MySQL, Postgresql, SQLite.
 
 Otras herramientas: Postman, Swagger, Microsoft Office, Jira, SCRUM.
