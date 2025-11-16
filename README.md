@@ -62,17 +62,6 @@ Front-End: HTML, CSS, React, Axios, Bootstrap, Tailwindcss, JavaFx, Thymeleaf.
 </details>
 <details>
   <summary>
-    <u>➡️Micaela's English Test</u> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>Plotly.js</code>
-  </summary>
-  <p>
-    <p>
-      <b>Micaela's English Test</b> es una página que muestra un sistema de Quiz, cargado con preguntas de inglés orientadas al nivel primario.</i>
-    </p>
-  </p>
-  <a href="https://micaelas-english-test.vercel.app/">Despliegue</a>
-</details>
-<details>
-  <summary>
     <u>➡️Repartir</u> <code>React</code> <code>Bootstrap</code> <code>HTML</code> <code>CSS</code> <code>html2pdf</code>
   </summary>
   <p>
